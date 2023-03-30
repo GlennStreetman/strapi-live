@@ -15,7 +15,7 @@ Create .envDev for dev mode
 Create .envProd for production
 
 ### Development
-
+> yarn install
 > npm install
 > npm run dBuild
 
@@ -24,7 +24,7 @@ Restart
 > npm run dUp
 
 ### Production
-
+> yarn intall
 > npm run pBuild
 
 Restart
